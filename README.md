@@ -113,7 +113,11 @@ A simple mobile app that helps the gamers to compare the game price among differ
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**User Story 1**:
+
+As a rookie in gaming, I want a searching platform that can conveniently show me where and how to buy the game I want.
+
+![UML Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/uml01.jpg)
 
 ## Clickable Prototype
 
