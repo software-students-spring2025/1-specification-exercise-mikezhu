@@ -34,6 +34,7 @@ A little exercise to get started with the specification phase of the software de
 - **Is there any limitations or shortcomings of the current methods you use to find gaming deals?**<br>
   Ans: "It's required to visit multiple sites and manually compare prices and discount details for one game" 
 
+
 ---
 
 ### 4. Factors Influencing Purchasing Decisions
@@ -53,7 +54,8 @@ A little exercise to get started with the specification phase of the software de
 
 ### 6. Social Features and Unified Profile Management
 - **Have you ever experienced managing multiple profiles across different gaming platforms? What issues or inconveniences have you faced?**<br>
-  Ans: "Yes, managing different profiles is a hassle. It’s difficult to keep track of achievements, friends, and game libraries when everything is spread out over several platforms."
+  Ans: "Yes, managing different profiles is a hassle. It’s difficult to keep track of achievements, friends, and game libraries when everything is spread out over several platforms."<br>
+  "Moreover, dealing with notifications is also what I've been struggle with. All messages and notifictations from various platforms are sometimes overwhelaming to me. Its also diffcult to track back a certain message since I have no idea which paltform it come from."
 - **Do you think having a unified profile that consolidates your information from all platforms could improve your experience?**<br>
   Ans: Yes
 - **If so, What types of social benefits would you expect to find in this context?**<br>
@@ -63,6 +65,34 @@ A little exercise to get started with the specification phase of the software de
 ### 7.Areas for Improvement
 - **Do you have any additional suggestions or expectations for an app that integrates multi-platform information and social features?**<br>
   Ans:  "It would be great if the app also offered customizable alerts for price drops, and even the alert for rapid change in player reputation."
+### Summary of Key Goals and Pain Points
+
+### Goals
+1. **Centralized Deal Aggregation:**  
+   Provide a single platform that gathers gaming deals from various sources, so users don't have to search multiple websites.
+
+2. **Cost-effective Purchase Recommendations:**  
+   Automatically recommend the best purchase options, ensuring that users always get the most economical deals available.
+
+3. **Unified Profile Management:**  
+   Consolidate multiple gaming profiles into one interface, simplifying the management of game libraries, achievements, and interactions.
+
+4. **Enhanced Social Connectivity:**  
+   Integrate robust social features that enable gamers to connect, share achievements, and interact seamlessly across different platforms.
+
+### Pain Points
+1. **Time Consuming:**  
+   The process of finding and comparing deals is overly time-consuming.
+
+2. **Required to Visit Multiple Sites to Compare Prices:**  
+   Users must navigate several websites to gather and compare pricing information, leading to inefficiencies.
+
+3. **Managing Different Profiles:**  
+   Maintaining multiple profiles across various gaming platforms is confusing and fragmented.
+
+4. **Difficult to Track Messages:**  
+   It's challenging for users to track communications and notifications spread across different platforms.
+
 
 ## Product Vision Statement
 
