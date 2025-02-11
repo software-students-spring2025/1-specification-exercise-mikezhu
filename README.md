@@ -129,4 +129,4 @@ As a platform enthusiast, I want to see detailed price breakdowns for each gamin
 
 ![Preview of Figma](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/figma.jpg)
 
-[Click here to view the prototype](https://www.figma.com/design/5bDP3EdcWMG5VCHb7XW7ES/mikeZhu?t=Ifji3yz67WvlhfiP-0)
+[Click here to view the prototype](https://www.figma.com/proto/5bDP3EdcWMG5VCHb7XW7ES/mikeZhu?node-id=95-519&p=f&t=b1coifBCQVkjTeQa-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
