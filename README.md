@@ -127,4 +127,6 @@ As a platform enthusiast, I want to see detailed price breakdowns for each gamin
 ![UML Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/uml02.jpg)
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+![Preview of Figma](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/figma.jpg)
+
+[Click here to view the prototype](https://www.figma.com/design/5bDP3EdcWMG5VCHb7XW7ES/mikeZhu?t=Ifji3yz67WvlhfiP-0)
