@@ -15,11 +15,20 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A simple mobile app that helps the gamers to compare the game price among different gaming platforms such as Steam, PS, XBOX...
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+	1.	As a casual gamer, I want to compare game prices across multiple platforms so that I can find the best deal for my favorite games.
+	2.	As a mobile app user, I want to search for games by title so that I can quickly access relevant price comparisons.
+	3.	As a deal seeker, I want to filter games by price range so that I can easily discover affordable options.
+	4.	As a dedicated gamer, I want to view historical pricing trends so that I can decide the best time to purchase a game.
+	5.	As a platform enthusiast, I want to see detailed price breakdowns for each gaming platform so that I can understand the value differences between them.
+	6.	As a frequent shopper, I want to save my favorite games to a watchlist so that I can monitor any price changes or special offers over time.
+	7.	As a user who values convenience, I want an intuitive and user-friendly interface so that I can compare prices quickly and effortlessly.
+	8.	As a bargain hunter, I want to receive notifications when a game’s price drops so that I never miss out on a good deal.
+	9.	As a multi-platform gamer, I want to view my preferred platform’s pricing highlighted so that I can prioritize my buying decisions more efficiently.
+	10.	As a strategic buyer, I want to compare bundle deals versus individual game pricing so that I can choose the most cost-effective option for my collection.
 
 ## Activity Diagrams
 
