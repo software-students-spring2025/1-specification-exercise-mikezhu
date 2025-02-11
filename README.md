@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- [Jiaxi Zhang](https://github.com/SuQichen777),
-- [Yilei Weng](https://github.com/ShadderD),
-- [Yuquan Hu](https://github.com/N-A-E-S),
+- [Jiaxi Zhang](https://github.com/SuQichen777)
+- [Yilei Weng](https://github.com/ShadderD)
+- [Yuquan Hu](https://github.com/N-A-E-S)
 - [Kuaiduo Yu](https://github.com/ky2389)
 
 ## Stakeholders
