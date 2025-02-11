@@ -23,7 +23,7 @@ A little exercise to get started with the specification phase of the software de
 
 ### 2. How You Find Discount and Deal Information
 - **How do you normally get the latest information on discounts, deals, or promotions on your gaming platforms?**<br>
-  _Examples: through websites, apps, newsletters, social media, etc._
+  _Examples: through websites, apps, newsletters, social media, etc._<br>
   Ans: "I check a few dedicated gaming deal websites, subscribe to newsletters from Steam and PlayStation"<br>
        "I follow a couple of deal-sharing posts on reddit and BilBil" 
 ---
@@ -47,7 +47,7 @@ A little exercise to get started with the specification phase of the software de
 - **Would you be interested in using an app that aggregates information from multiple gaming platforms and automatically recommends the best deals?**<br>
   Ans: Yes
 - **If so, what core features would you expect from such an application?**<br>
-  _Examples: a unified deals list, price comparison tools, automatic recommendation system, deal alerts, etc._
+  _Examples: a unified deals list, price comparison tools, automatic recommendation system, deal alerts, etc._<br>
   Ans: "I’d expect to see a unified deals list, robust price comparison tools, notifications for limited-time offers, and perhaps a personalized recommendation system based on my gaming preferences."
 ---
 
