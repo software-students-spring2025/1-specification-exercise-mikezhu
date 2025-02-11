@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [Jiaxi Zhang](https://github.com/SuQichen777)
 - [Yilei Weng](https://github.com/ShadderD)
 - [Yuquan Hu](https://github.com/N-A-E-S)
-- [Kuaiduo Yu](https://github.com/ky2389)
+- [Henry Yu](https://github.com/ky2389)
 
 ## Stakeholders
 
@@ -71,15 +71,15 @@ A simple mobile app that helps the gamers to compare the game price among differ
 ## User Requirements
 
 	1.	As a casual gamer, I want to compare game prices across multiple platforms so that I can find the best deal for my favorite games.
-	2.	As a mobile app user, I want to search for games by title so that I can quickly access relevant price comparisons.
-	3.	As a deal seeker, I want to filter games by price range so that I can easily discover affordable options.
+	2.	As a rookie in gaming, I want a searching platform that can conveniently show me where and how to buy the game I want.
+	3.	As a cautious gamer, I want to filter games by price range so that I can value the cost-effectiveness of the game I want.
 	4.	As a dedicated gamer, I want to view historical pricing trends so that I can decide the best time to purchase a game.
-	5.	As a platform enthusiast, I want to see detailed price breakdowns for each gaming platform so that I can understand the value differences between them.
+	5.	As a platform enthusiast, I want to see detailed price breakdowns for each gaming platform and bundle deals so that I can understand the value differences between them.
 	6.	As a frequent shopper, I want to save my favorite games to a watchlist so that I can monitor any price changes or special offers over time.
-	7.	As a user who values convenience, I want an intuitive and user-friendly interface so that I can compare prices quickly and effortlessly.
-	8.	As a bargain hunter, I want to receive notifications when a game’s price drops so that I never miss out on a good deal.
-	9.	As a multi-platform gamer, I want to view my preferred platform’s pricing highlighted so that I can prioritize my buying decisions more efficiently.
-	10.	As a strategic buyer, I want to compare bundle deals versus individual game pricing so that I can choose the most cost-effective option for my collection.
+	7.	As a mobile app user, I want to be able to link platform accounts to view the games I have on different platforms to easily manage and check them.
+	8.	As a bargain hunter, I want to receive notifications when a game’s price drops significantly so that I never miss out on a good deal.
+	9.	As a game enthusiastic, I want to check out recent news about games I'm following so that I have the time-sensitive information.
+	10.	As a strategic buyer, I want to see the reviews of games I'm interested in so that I can refer to gamers opinions.
 
 ## Activity Diagrams
 
