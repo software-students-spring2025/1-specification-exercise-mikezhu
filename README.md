@@ -72,7 +72,7 @@ A simple mobile app that helps the gamers to compare the game price among differ
 
 	1.	As a casual gamer, I want to compare game prices across multiple platforms so that I can find the best deal for my favorite games.
 	2.	As a rookie in gaming, I want a searching platform that can conveniently show me where and how to buy the game I want.
-	3.	As a cautious gamer, I want to filter games by price range so that I can value the cost-effectiveness of the game I want.
+	3.	As a game collector, I want to know the recent free games deal so that I can easily acquire them.
 	4.	As a dedicated gamer, I want to view historical pricing trends so that I can decide the best time to purchase a game.
 	5.	As a platform enthusiast, I want to see detailed price breakdowns for each gaming platform and bundle deals so that I can understand the value differences between them.
 	6.	As a frequent shopper, I want to save my favorite games to a watchlist so that I can monitor any price changes or special offers over time.
