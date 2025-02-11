@@ -119,6 +119,12 @@ As a rookie in gaming, I want a searching platform that can conveniently show me
 
 ![UML Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/uml01.jpg)
 
+
+**User Story 2**:
+
+As a platform enthusiast, I want to see detailed price breakdowns for each gaming platform and bundle deals so that I can understand the value differences between them.
+
+![UML Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-mikezhu/blob/main/images/uml02.jpg)
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
