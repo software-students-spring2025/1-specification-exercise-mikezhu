@@ -65,6 +65,34 @@ A little exercise to get started with the specification phase of the software de
 ### 7.Areas for Improvement
 - **Do you have any additional suggestions or expectations for an app that integrates multi-platform information and social features?**<br>
   Ans:  "It would be great if the app also offered customizable alerts for price drops, and even the alert for rapid change in player reputation."
+### Summary of Key Goals and Pain Points
+
+### Goals
+1. **Centralized Deal Aggregation:**  
+   Provide a single platform that gathers gaming deals from various sources, so users don't have to search multiple websites.
+
+2. **Cost-effective Purchase Recommendations:**  
+   Automatically recommend the best purchase options, ensuring that users always get the most economical deals available.
+
+3. **Unified Profile Management:**  
+   Consolidate multiple gaming profiles into one interface, simplifying the management of game libraries, achievements, and interactions.
+
+4. **Enhanced Social Connectivity:**  
+   Integrate robust social features that enable gamers to connect, share achievements, and interact seamlessly across different platforms.
+
+### Pain Points
+1. **Time Consuming:**  
+   The process of finding and comparing deals is overly time-consuming.
+
+2. **Required to Visit Multiple Sites to Compare Prices:**  
+   Users must navigate several websites to gather and compare pricing information, leading to inefficiencies.
+
+3. **Managing Different Profiles:**  
+   Maintaining multiple profiles across various gaming platforms is confusing and fragmented.
+
+4. **Difficult to Track Messages:**  
+   It's challenging for users to track communications and notifications spread across different platforms.
+
 
 ## Product Vision Statement
 
